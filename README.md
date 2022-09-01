@@ -1,3 +1,7 @@
+
+An app that provides you daily quotes about sports.
+<br> <i> Developed for CMPE 352 Fundamentals of Software Engineering Course, Bogazici University, Spring 2021.<i>
+
 # 1. INTRODUCTION
 
 Welcome to the Daily Quote API!
